@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Learnings/Personal%20Projects/mlprojects/mlruns/0/2afcd376590c4b8cb2ee378f049794ca/artifacts
+end_time: 1735213915990
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2afcd376590c4b8cb2ee378f049794ca
+run_name: bouncy-wasp-536
+run_uuid: 2afcd376590c4b8cb2ee378f049794ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735213903674
+status: 3
+tags: []
+user_id: root

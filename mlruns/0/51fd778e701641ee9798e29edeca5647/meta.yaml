@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Learnings/Personal%20Projects/mlprojects/mlruns/0/51fd778e701641ee9798e29edeca5647/artifacts
+end_time: 1735214348778
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51fd778e701641ee9798e29edeca5647
+run_name: dashing-shoat-575
+run_uuid: 51fd778e701641ee9798e29edeca5647
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735214337424
+status: 3
+tags: []
+user_id: root

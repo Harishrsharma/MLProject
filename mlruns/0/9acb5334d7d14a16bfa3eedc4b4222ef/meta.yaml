@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Learnings/Personal%20Projects/mlprojects/mlruns/0/9acb5334d7d14a16bfa3eedc4b4222ef/artifacts
+end_time: 1735208389474
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9acb5334d7d14a16bfa3eedc4b4222ef
+run_name: adaptable-flea-155
+run_uuid: 9acb5334d7d14a16bfa3eedc4b4222ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735208380057
+status: 3
+tags: []
+user_id: root

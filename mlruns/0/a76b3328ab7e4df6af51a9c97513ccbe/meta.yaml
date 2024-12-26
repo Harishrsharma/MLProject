@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Learnings/Personal%20Projects/mlprojects/mlruns/0/a76b3328ab7e4df6af51a9c97513ccbe/artifacts
+end_time: 1735210802288
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a76b3328ab7e4df6af51a9c97513ccbe
+run_name: mysterious-croc-191
+run_uuid: a76b3328ab7e4df6af51a9c97513ccbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735210788274
+status: 3
+tags: []
+user_id: root
